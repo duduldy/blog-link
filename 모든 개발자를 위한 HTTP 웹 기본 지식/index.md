@@ -1,4 +1,4 @@
-[강의 링크 - 모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#curriculum)
+[강의 링크 - 모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC#curriculum)  
 [블로그 태그 - 모든 개발자를 위한 HTTP 웹 기본 지식](https://prunier.tistory.com/category/%EC%B1%85%2C%20%EA%B0%95%EC%9D%98/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D)
 
 섹션 1 [인터넷 네트워크](https://prunier.tistory.com/89)  
