@@ -3,7 +3,7 @@
 
 섹션 1 [인터넷 네트워크](https://prunier.tistory.com/89)  
 섹션 2 [URI와 웹 브라우저 요청 흐름](https://prunier.tistory.com/90)  
-섹션 3 [HTTP 기본]()  
+섹션 3 [HTTP 기본](https://prunier.tistory.com/91)  
 섹션 4 [HTTP 메서드]()  
 섹션 5 [HTTP 메서드 활용]()  
 섹션 6 [HTTP 상태코드]()  
