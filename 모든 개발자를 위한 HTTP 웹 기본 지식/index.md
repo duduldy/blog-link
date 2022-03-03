@@ -5,7 +5,7 @@
 섹션 2 [URI와 웹 브라우저 요청 흐름](https://prunier.tistory.com/90)  
 섹션 3 [HTTP 기본](https://prunier.tistory.com/91)  
 섹션 4 [HTTP 메서드](https://prunier.tistory.com/92)  
-섹션 5 [HTTP 메서드 활용]()  
+섹션 5 [HTTP 메서드 활용](https://prunier.tistory.com/93)  
 섹션 6 [HTTP 상태코드]()  
 섹션 7 [HTTP 헤더1 - 일반 헤더]()  
 섹션 8 [HTTP 헤더2 - 캐시와 조건부 요청]()  
