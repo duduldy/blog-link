@@ -8,5 +8,5 @@
 섹션 5 [HTTP 메서드 활용](https://prunier.tistory.com/93)  
 섹션 6 [HTTP 상태코드](https://prunier.tistory.com/94)  
 섹션 7 [HTTP 헤더1 - 일반 헤더](https://prunier.tistory.com/95)  
-섹션 8 [HTTP 헤더2 - 캐시와 조건부 요청]()  
+섹션 8 [HTTP 헤더2 - 캐시와 조건부 요청](https://prunier.tistory.com/96)  
 섹션 9 [다음으로]()
