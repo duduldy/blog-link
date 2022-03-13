@@ -4,7 +4,7 @@
 ※ 2017년 강의라서 node 버전이 v6.10.0 이다.
 
 섹션  0 [오리엔테이션](https://prunier.tistory.com/97)  
-섹션  1 [NodeJS 기초]()  
+섹션  1 [NodeJS 기초](https://prunier.tistory.com/98)  
 섹션  2 [노드로 만나는 Hello World]()  
 섹션  3 [익스프레스 (ExpressJS) 기초]()  
 섹션  4 [npm 에 대해 좀 더 알아보기]()  
