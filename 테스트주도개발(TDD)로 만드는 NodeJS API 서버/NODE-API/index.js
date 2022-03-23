@@ -130,19 +130,33 @@
 // })
 
 // Hello world 익스프레스버전
-const express = require('express')
-const app = express()
-const port = 3000
-app.get('/', (req, res) => {
-    res.send('Hello World!')
-})
+// const express = require('express')
+// const app = express()
+// const port = 3000
+// // app.get('/', function (req, res) {
+// app.get('/', (req, res) => {
+//     res.send('Hello World!')
+// })
+// app.listen(port, () => {
+//     console.log(`Example app listening on port ${port}`)
+// })
+
+// 첫 API 만들기
+const express = require('express');
+const app = express();
+const morgan = require('morgan');
+let users = [
+    {id: 1, name: 'alice'},
+    {id: 2, name: 'bek'},
+    {id: 3, name: 'chris'},
+];
+const port = 3000;
+app.use(morgan('dev'));
+app.get('/users', (req, res) => {
+    res.json(users)
+});
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
-})
+});
 
-
-
-
-
-
-
+module.exports = app;
