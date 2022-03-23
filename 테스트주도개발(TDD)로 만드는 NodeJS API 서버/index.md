@@ -9,7 +9,7 @@
 섹션  3 [익스프레스 (ExpressJS) 기초](https://prunier.tistory.com/100)  
 섹션  4 [npm 에 대해 좀 더 알아보기](https://prunier.tistory.com/101)  
 섹션  5 [REST API란](https://prunier.tistory.com/102)  
-섹션  6 [테스트 주도 개발 (TDD)]()  
+섹션  6 [테스트 주도 개발 (TDD)](https://prunier.tistory.com/103)  
 섹션  7 [TDD 로 하는 API 서버 개발]()  
 섹션  8 [코드 리펙토링]()  
 섹션  9 [데이터베이스]()  
