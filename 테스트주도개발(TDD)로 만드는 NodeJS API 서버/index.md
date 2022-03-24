@@ -11,13 +11,13 @@
 섹션  5 [REST API란](https://prunier.tistory.com/102)  
 섹션  6 [테스트 주도 개발 (TDD)](https://prunier.tistory.com/103)  
 섹션  7 [TDD 로 하는 API 서버 개발 1 (첫 API 테스트 만들기)](https://prunier.tistory.com/104)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [TDD 로 하는 API 서버 개발 2 (GET /user/:id)](https://prunier.tistory.com/105)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [TDD 로 하는 API 서버 개발 3 (DELETE /users/:id)](https://prunier.tistory.com/106)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [TDD 로 하는 API 서버 개발 4 (POST /users)](https://prunier.tistory.com/107)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [TDD 로 하는 API 서버 개발 5 (PUT /users/:id)](https://prunier.tistory.com/108)  
 섹션  8 [코드 리펙토링]()  
 섹션  9 [데이터베이스]()  
