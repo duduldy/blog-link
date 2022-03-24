@@ -17,6 +17,8 @@
 [TDD 로 하는 API 서버 개발 3 (DELETE /users/:id)](https://prunier.tistory.com/106)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [TDD 로 하는 API 서버 개발 4 (POST /users)](https://prunier.tistory.com/107)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[TDD 로 하는 API 서버 개발 5 (PUT /users/:id)](https://prunier.tistory.com/108)  
 섹션  8 [코드 리펙토링]()  
 섹션  9 [데이터베이스]()  
 섹션 10 [끗]()  
