@@ -145,16 +145,20 @@
 const express = require('express');
 const app = express();
 const morgan = require('morgan');
-let users = [
-    {id: 1, name: 'alice'},
-    {id: 2, name: 'bek'},
-    {id: 3, name: 'chris'},
-];
+const bodyParser = require('body-parser');
+const users = require('./api/user');
+
 const port = 3000;
-app.use(morgan('dev'));
-app.get('/users', (req, res) => {
-    res.json(users)
-});
+
+if(process.env.NODE_ENV !== 'test'){
+    app.use(morgan('dev'));
+}
+
+app.use(bodyParser.json()) // for parsing application/json
+app.use(bodyParser.urlencoded({ extended: true })) // for parsing application/x-www-form-urlencoded
+
+app.use('/users', users);
+
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 });
