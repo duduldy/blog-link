@@ -27,7 +27,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [데이터베이스 5 - API DB 연동 (distroy)](https://prunier.tistory.com/114)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[데이터베이스 6 - API DB 연동 (create)](https://prunier.tistory.com/)  
+[데이터베이스 6 - API DB 연동 (create)](https://prunier.tistory.com/115)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [데이터베이스 7 - API DB 연동 (update)](https://prunier.tistory.com/)   
 섹션 10 [끗]()  
