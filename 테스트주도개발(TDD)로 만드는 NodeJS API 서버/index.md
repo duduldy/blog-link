@@ -30,4 +30,4 @@
 [데이터베이스 6 - API DB 연동 (create)](https://prunier.tistory.com/115)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [데이터베이스 7 - API DB 연동 (update)](https://prunier.tistory.com/116)   
-섹션 10 [끗]()  
+섹션 10 [마무리 (크롬앱 Postman, sync 옵션 수정)](https://prunier.tistory.com/117)  
