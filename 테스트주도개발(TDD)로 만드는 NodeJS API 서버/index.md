@@ -21,5 +21,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [TDD 로 하는 API 서버 개발 5 (PUT /users/:id)](https://prunier.tistory.com/108)  
 섹션  8 [코드 리펙토링](https://prunier.tistory.com/109)  
-섹션  9 [데이터베이스]()  
+섹션  9 [데이터베이스 3 - API DB 연동 (index)](https://prunier.tistory.com/112)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[데이터베이스 4 - API DB 연동 (show)](https://prunier.tistory.com/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[데이터베이스 5 - API DB 연동 (distroy)](https://prunier.tistory.com/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[데이터베이스 6 - API DB 연동 (create)](https://prunier.tistory.com/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[데이터베이스 7 - API DB 연동 (update)](https://prunier.tistory.com/)   
 섹션 10 [끗]()  
