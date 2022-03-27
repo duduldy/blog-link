@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [데이터베이스 4 - API DB 연동 (show), -w 옵션 추가](https://prunier.tistory.com/113)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[데이터베이스 5 - API DB 연동 (distroy)](https://prunier.tistory.com/)  
+[데이터베이스 5 - API DB 연동 (distroy)](https://prunier.tistory.com/114)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [데이터베이스 6 - API DB 연동 (create)](https://prunier.tistory.com/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
