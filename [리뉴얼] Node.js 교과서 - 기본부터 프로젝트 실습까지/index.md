@@ -1,5 +1,5 @@
 강의 링크 - [\[리뉴얼\] Node.js 교과서 - 기본부터 프로젝트 실습까지
-](https://www.inflearn.com/course/%EB%85%B8%EB%93%9C-%EA%B5%90%EA%B3%BC%EC%84%9C#)
+](https://www.inflearn.com/course/%EB%85%B8%EB%93%9C-%EA%B5%90%EA%B3%BC%EC%84%9C#)  
 블로그 태그 - [모든 개발자를 위한 HTTP 웹 기본 지식](https://prunier.tistory.com/category/%EC%B1%85%2C%20%EA%B0%95%EC%9D%98%20%EC%A0%95%EB%A6%AC/NodeJS%20-%20Node.js%20%EA%B5%90%EA%B3%BC%EC%84%9C%20-%20%EA%B8%B0%EB%B3%B8%EB%B6%80%ED%84%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%A4%EC%8A%B5%EA%B9%8C%EC%A7%80)
 
 
