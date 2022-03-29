@@ -15,7 +15,8 @@
 - [const, let](https://prunier.tistory.com/125)
 - [템플릿 문자열, 객체 리터럴](https://prunier.tistory.com/126)
 - [화살표 함수](https://prunier.tistory.com/127)
-- [비구조화 할당](https://prunier.tistory.com/128)
+- [구조분해 할당](https://prunier.tistory.com/128)
+- [클래스](https://prunier.tistory.com/129)
 
 섹션 2. 노드 기능  
 섹션 3. http 모듈로 서버 만들기  
