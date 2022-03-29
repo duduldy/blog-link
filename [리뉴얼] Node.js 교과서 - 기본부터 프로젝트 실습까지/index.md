@@ -10,6 +10,7 @@
 - [서버로서의 노드](https://prunier.tistory.com/122)  
   
 섹션 1. 알아두어야 할 자바스크립트  
+- [호출 스택 알아보기](https://prunier.tistory.com/123)
 섹션 2. 노드 기능  
 섹션 3. http 모듈로 서버 만들기  
 섹션 4. 패키지 매니저  
