@@ -13,6 +13,7 @@
 - [호출 스택 알아보기](https://prunier.tistory.com/123)
 - [이벤트 루프](https://prunier.tistory.com/124)
 - [const, let](https://prunier.tistory.com/125)
+- [템플릿 문자열, 객체 리터럴](https://prunier.tistory.com/126)
 
 섹션 2. 노드 기능  
 섹션 3. http 모듈로 서버 만들기  
