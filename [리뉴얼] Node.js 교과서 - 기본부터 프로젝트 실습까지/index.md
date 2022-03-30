@@ -17,6 +17,7 @@
 - [화살표 함수](https://prunier.tistory.com/127)
 - [구조분해 할당](https://prunier.tistory.com/128)
 - [클래스](https://prunier.tistory.com/129)
+- [Promise](https://prunier.tistory.com/130)
 
 섹션 2. 노드 기능  
 섹션 3. http 모듈로 서버 만들기  
