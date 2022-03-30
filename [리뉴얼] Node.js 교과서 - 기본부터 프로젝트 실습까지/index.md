@@ -19,6 +19,7 @@
 - [클래스](https://prunier.tistory.com/129)
 - [Promise](https://prunier.tistory.com/130)
 - [Async/await, for await of](https://prunier.tistory.com/131)
+- [프런트엔드 자바스크립트](https://prunier.tistory.com/132)
 
 섹션 2. 노드 기능  
 섹션 3. http 모듈로 서버 만들기  
