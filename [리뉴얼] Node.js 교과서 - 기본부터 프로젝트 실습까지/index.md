@@ -22,6 +22,8 @@
 - [프런트엔드 자바스크립트](https://prunier.tistory.com/132)
 
 섹션 2. 노드 기능  
+- [REPL와 js 파일 실행하기](https://prunier.tistory.com/133)
+
 섹션 3. http 모듈로 서버 만들기  
 섹션 4. 패키지 매니저  
 섹션 5. 익스프레스 웹 서버 만들기  
