@@ -24,6 +24,7 @@
 섹션 2. 노드 기능  
 - [REPL와 js 파일 실행하기](https://prunier.tistory.com/133)
 - [모듈 만들기](https://prunier.tistory.com/134)
+- [global과 콘솔, 타이머](https://prunier.tistory.com/135)
 
 섹션 3. http 모듈로 서버 만들기  
 섹션 4. 패키지 매니저  
