@@ -30,6 +30,7 @@
 - [process](https://prunier.tistory.com/138)
 - [내장 모듈 (OS, path)](https://prunier.tistory.com/139)
 - [내장 모듈 (url, querystring)](https://prunier.tistory.com/140)
+- [내장 모듈 (crypto, util)](https://prunier.tistory.com/141)
 
 섹션 3. http 모듈로 서버 만들기  
 섹션 4. 패키지 매니저  
