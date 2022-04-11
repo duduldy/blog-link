@@ -40,6 +40,7 @@
 - [버퍼와 스트림](https://prunier.tistory.com/146)
 - [pipe와 스트림 메모리 효율 확인](https://prunier.tistory.com/147)
 - [스레드풀과 커스텀 이벤트](https://prunier.tistory.com/148)
+- [예외 ](https://prunier.tistory.com/149)
 
 섹션 3. http 모듈로 서버 만들기  
 섹션 4. 패키지 매니저  
