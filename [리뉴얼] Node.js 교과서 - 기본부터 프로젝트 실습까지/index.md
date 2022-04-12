@@ -43,6 +43,8 @@
 - [예외 처리하기](https://prunier.tistory.com/149)
 
 섹션 3. http 모듈로 서버 만들기  
+- [요청과 응답 이해하기!](https://prunier.tistory.com/150)
+
 섹션 4. 패키지 매니저  
 섹션 5. 익스프레스 웹 서버 만들기  
 섹션 6. MySQL  
