@@ -52,7 +52,8 @@
 
 섹션 4. 패키지 매니저(npm)  
 - [npm이란](https://prunier.tistory.com/156)
-- [package.json](https://prunier.tistory.com/157)
+- [package.json, npm 스크립트, node_modules](https://prunier.tistory.com/157)
+- [SemVer 버저닝](https://prunier.tistory.com/158)
 
 섹션 5. 익스프레스 웹 서버 만들기  
 섹션 6. MySQL  
